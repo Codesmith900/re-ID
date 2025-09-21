@@ -41,7 +41,7 @@ re-ID/
 │   ├── id_108.0/                 # Person folder with tracked crops
 │   ├── id_200.0/
 │   └── id_305.0/
-├── videos/                        # Input video files for processing
+├── videos                        # video mp4
 └── README.md                      # This file
 ```
 
