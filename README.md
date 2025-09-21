@@ -1,4 +1,4 @@
-# Deep Feature Re-Identification and Folder Merge
+# Deep Feature Re-Identification and Health Check Endpoint
 
 This project combines **YOLOv8** person detection/tracking with **ResNet50** deep features to create a complete person re-identification pipeline. The system first uses YOLOv8 for person tracking and counting to generate the dataset, then applies ResNet50 deep features to find and merge similar person folders (Re-ID).  
 It includes a **Flask-based Health Monitor API** to track processing status and statistics in real time.
